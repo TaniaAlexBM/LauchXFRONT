@@ -1,25 +1,21 @@
-# LaunchX: FRONT
+# LaunchX: Introducción
 
-Contenido:
-1. Programación FrontEnd
+### Práctica sobre maquetación del proyecto
 
-
-2. HTML
-
-
-3. CSS
+### Contenido:
+1. Requerimientos
 
 
-4. JavaScript
+2. Historias de usuario
 
 
-5. Vue JS
+3. buyer persona
 
 
-6. VUEX
+4. Público Objetivo
 
 
-7. Angular
+5. Wireframe
 
 
-8. Azure
+6. IU
