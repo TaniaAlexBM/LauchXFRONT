@@ -1,4 +1,4 @@
-# LauchX: FRONT
+# LaunchX: FRONT
 
 Contenido:
 1. Programación FrontEnd
